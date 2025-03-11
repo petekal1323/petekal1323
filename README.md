@@ -7,20 +7,8 @@
 
 ---
 
-## 🚀 **Tech Stack & Skills**
--- **Programming Languages & Frameworks:** JavaScript (ES6+), TypeScript (familiarity), React, Angular, Node, jQuery
--- **UI & Frontend Development:** HTML5, CSS3, SCSS, SASS, Bootstrap, Tailwind CSS, Material UI, KendoUI
--- **Version Control & Development Tools:** Git, GitHub, WebStorm, VS Code, Chrome DevTools
--- **Accessible Design & Compatibility:** WCAG Compliance, Cross-Browser Compatibility
--- **Testing & Debugging:** Manual Testing, Debugging, Performance Optimization
--- **API & Data Handling:** Fetch, Axios, AJAX, JSON, Postman
--- **Cloud Platforms:** Google Cloud Platform (familiarity)
--- **Project Management & Collaboration:** Agile/Scrum, Pair Programming
-
----
-
 ## 📌 **Pinned Projects**
-### 🔹 [AI Flashcard Generator](https://github.com/petekal1323/flashcard-generator))
+### 🔹 [AI Flashcard Generator](https://github.com/petekal1323/flashcard-generator)
 *This project is an AI-powered flashcard generator, designed to help users study dynamically by generating quiz questions based on any topic they enter.*
 
 🔧 **Tech Used**: React+Vite  
