@@ -22,7 +22,7 @@
 
 ---
 
-🔹 *Looking for opportunities in front-end development? Let’s talk!*
+<!--🔹 *Looking for opportunities in front-end development? Let’s talk!*  -->
 
 
 <!--
